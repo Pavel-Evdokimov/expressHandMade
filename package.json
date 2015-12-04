@@ -1,0 +1,19 @@
+{
+  "name": "cms2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^1.9.0",
+    "mustache": "^2.2.0"
+  },
+  "devDependencies": {
+    "mustache": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Evdokimov Pavel",
+  "license": "ISC"
+}

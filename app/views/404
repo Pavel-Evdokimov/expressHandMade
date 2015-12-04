@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>404</title>
+  </head>
+  <body>
+    <h1>Some thing wrong</h1>
+    <p>
+      You can start from <a href="/">first</a> page.
+    </p>
+  </body>
+</html>
